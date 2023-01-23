@@ -1,6 +1,6 @@
 #!/bin/bash
 <<c
- create different categories for phone book ..ex:family,work,friends...
+ create different categories for phone book ..ex:family,work,friends...and enter name and number of each person
 c
 create_book() 
 {
